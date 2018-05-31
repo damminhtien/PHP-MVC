@@ -1,8 +1,8 @@
 <?php 
 	// config Database
-	const APP_NAME = "PHP-MVC";
+	const $APP_NAME = "PHP-MVC";
 
-	const AUTHOR = "DMT"
+	const $AUTHOR = "DMT"
 
 	const $HOST_NAME = "localhost";
 
